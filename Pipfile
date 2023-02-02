@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 attrs = "==18.2.0"
 idna = "==2.7"
-six = "==0.0.6"
+six = "==1.9.0"
+dj-sessions = "==0.3.0"
+
 
 [dev-packages]
