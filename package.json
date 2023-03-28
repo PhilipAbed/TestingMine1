@@ -115,7 +115,7 @@
     "p-all": "3.0.0",
     "p-map": "4.0.0",
     "p-queue": "6.6.2",
-    "p-throttle": "4.1.1",
+    "p-throttle": "5.0.0",
     "parse-link-header": "2.0.0",
     "prettier": "2.8.3",
     "quick-lru": "5.1.1",
