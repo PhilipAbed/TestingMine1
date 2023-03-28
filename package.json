@@ -16,7 +16,7 @@
 "base64-to-image": "^1.0.2",
 "brainly-scraper": "^1.0.3",
 "browser-id3-writer": "^4.4.0",
-"cfonts": "^2.9.0",
+"cfonts": "^3.0.0",
 "child_process": "^1.0.2",
 "color": "^4.0.0",
 "crypto": "^1.0.1",
