@@ -60,7 +60,7 @@
 "uninstall": "0.0.0",
 "yt-search": "^2.7.6",
      "@types/tmp": "0.2.3",
-    "@yarnpkg/core": "3.3.1",
+    "@yarnpkg/core": "3.5.0",
     "@yarnpkg/parsers": "2.5.1",
     "agentkeepalive": "4.2.1",
     "aggregate-error": "3.1.0",
