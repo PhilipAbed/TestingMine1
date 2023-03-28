@@ -20,7 +20,7 @@
 "child_process": "^1.0.2",
 "color": "^4.0.0",
 "crypto": "^1.0.1",
-"dotenv": "^8.2.0",
+"dotenv": "^16.0.0",
 "emoji-api": "^1.0.2",
 "encodeurl": "^1.0.2",
 "fake-useragent": "^1.0.1",
