@@ -69,7 +69,7 @@
     "azure-devops-node-api": "12.0.0",
     "bunyan": "1.8.15",
     "cacache": "17.0.4",
-    "cacheable-lookup": "5.0.4",
+    "cacheable-lookup": "7.0.0",
     "chalk": "4.1.2",
     "changelog-filename-regex": "2.0.1",
     "clean-git-ref": "2.0.1",
