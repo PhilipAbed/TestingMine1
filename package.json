@@ -10,7 +10,7 @@
 "@adiwajshing/baileys": "^3.5.3",
 "@vitalets/google-translate-api": "^7.0.0",
 "async": "^2.4.1",
-"awesome-phonenumber": "^2.48.0",
+"awesome-phonenumber": "^5.0.0",
 "axios": "^0.21.1",
 "base64-img": "^1.0.4",
 "base64-to-image": "^1.0.2",
