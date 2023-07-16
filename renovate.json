@@ -9,7 +9,7 @@
 	"packageRules": [
 		{
 			"matchConfidence":["high"],
-			"group":"high group"
+			"groupName": "bb"
 		}
 	]
 }
