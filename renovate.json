@@ -6,7 +6,6 @@
 	"extends": [
 		"github>whitesource/merge-confidence:beta"
 	],
-  	"hashedBranchLength": 99999999999999999999999,
 	"packageRules": [
 		{
 			"matchConfidence":["high"],
