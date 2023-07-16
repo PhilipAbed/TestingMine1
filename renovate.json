@@ -5,11 +5,5 @@
 	"requireConfig": "optional",
 	"extends": [
 		"github>whitesource/merge-confidence:beta"
-	],
-	"packageRules": [
-		{
-			"matchConfidence":["high"],
-			"groupName": "bb"
-		}
 	]
 }
