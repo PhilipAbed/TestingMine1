@@ -3,6 +3,7 @@
 	"includeForks": true,
 	"onboarding": false,
 	"requireConfig": "optional",
+	"hashedBranchLength": "5",
 	"extends": [
 		"github>whitesource/merge-confidence:beta"
 	]
