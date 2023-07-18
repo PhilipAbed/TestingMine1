@@ -6,4 +6,5 @@
 	"extends": [
 		"github>whitesource/merge-confidence:beta"
 	]
+	"did you really forget the comma": "like srsly"
 }
