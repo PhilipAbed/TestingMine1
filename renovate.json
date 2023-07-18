@@ -5,6 +5,11 @@
 	"requireConfig": "optional",
 	"extends": [
 		"github>whitesource/merge-confidence:beta"
+	],
+	"packageRules": [
+		{
+			"matchConfidence": ["high","very high"],
+			"groupName":["high confidences"]
+		}
 	]
-	"did you really forget the comma": "like srsly"
 }
