@@ -6,10 +6,4 @@
 	"extends": [
 		"github>whitesource/merge-confidence:beta"
 	]
-	"packageRules": [
-		{
-			"matchConfidence": ["high","very high"],
-			"groupName":["high confidences"]
-		}
-	]
 }
